@@ -1,0 +1,1194 @@
+{
+  "total": 31,
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "actionDate": "05/29/2017 11:42:51",
+  "assets": [
+    {
+      "assetTitle": "ACC 1293A",
+      "assetNumber": "75",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/gqLWUsvNk4m3g(plus)a(slash)uUPjFQMRbl7Ej4QoGkUOFhrXXG6rSf7JP3eOk8YGfUcodr4Q"
+    },
+    {
+      "assetTitle": "AXCE 1200",
+      "assetNumber": "73",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/nV6VATeOFgEqBcrtOMdHu1rkbrtMEPSrBJz2hNBGefsZThRxBsJbH(plus)lS9RIhymiufIxli8FRlIc%3d"
+    },
+    {
+      "assetTitle": "DVX - 1200ZA",
+      "assetNumber": "72",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/LAccQyX1z3Agq8pLI(plus)lrmk2dHkuYQsp4NknwsQwv7qM(slash)j46Zlog3eIxIb3DFYu5BBaKGHX8EER(slash)7wzfDyTP4H3yMZYvBUZSH"
+    },
+    {
+      "assetTitle": "JBL 1600",
+      "assetNumber": "70",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/6sJrdVUdXGJ9R7ynPmsCsztXYiyok0u4REwETnzbNtoLQsDn4mBnzMg2o(plus)B3qAkmfIxli8FRlIc%3d"
+    },
+    {
+      "assetTitle": "AXR 1200",
+      "assetNumber": "69",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/5GAvwQnD(plus)lGL9s0ykX2Bs2tWDm4tfHFp7RTiaop395DhNoSXehzAM(slash)T5Dtxu102ZfIxli8FRlIc%3d"
+    },
+    {
+      "assetTitle": "AVR - 1030XA",
+      "assetNumber": "68",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/jSMRazEX1CrTHdLUl1TsGPspnCWsd(slash)qd98DxDsuvJ5C(plus)vWE2TWCNAAvzdHRdR22qNPKxgSsBQJJkIRBovQRxddis5ijoXRovXvnBME26PEw%3d"
+    },
+    {
+      "assetTitle": "AVR - 6200",
+      "assetNumber": "56",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/it82zKmPuFO(slash)4ljYF58z5l3(slash)0n8kT1aM4N5plZw4aB2ZPErmUGUFOzI4GrAR(plus)RWr12kfYMuDJWSsVRF96(plus)cmIw%3d%3d"
+    },
+    {
+      "assetTitle": "AVRX - 1200",
+      "assetNumber": "49",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/VBGjsIHtgUONett8MUnEPC28xw(plus)ZW2jEo4FsNa1CnoyJqaQnJ(slash)Ed7JXWgrkTPI8tmfQ4PpCBxvdRoqT5hm3Z27E7g0OksXBmAyglwlnsXmXD1jziAyitelFeo7YJnK0f"
+    },
+    {
+      "assetTitle": "AVR - 3900",
+      "assetNumber": "55",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "Jason Roy",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/tv7R4kh5fMK2UAoaLmXBZWoQY5t7ww434HZLhOu6GRfjFwrvuXKwXZXWgrkTPI8tmfQ4PpCBxvdRoqT5hm3Z27E7g0OksXBmAyglwlnsXmUuDtF9sNdbEFFeo7YJnK0f"
+    },
+    {
+      "assetTitle": "ACC 1203A",
+      "assetNumber": "54",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "Jason Roy",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/UETJeWsZknZbK0S9RH(slash)pcxJ2uE5tfU6t8fD6PKy5MhpXhG4AIa364DQT6mfBa1G1XQqaq3ggIXEQopWgW(plus)y18WgxkVgSKQERYkv9QSQkFDTeXzGJFc7PN(plus)eFJqhcej43"
+    },
+    {
+      "assetTitle": "Acc 1200",
+      "assetNumber": "53",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 2,
+      "categoryName": "Accessories",
+      "owner": "Jason Roy",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/DuQ(plus)FZnEn4aXvzvxLv4FjcgVxVwYEnej1KWDCKnhLxs(plus)zrPwPSh2I5XWgrkTPI8tmfQ4PpCBxvdRoqT5hm3Z27E7g0OksXBmAyglwlnsXmUuDtF9sNdbEFFeo7YJnK0f"
+    },
+    {
+      "assetTitle": "AVD - 1203S",
+      "assetNumber": "52",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "Jason Roy",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/OY04(slash)sAqLFtZUKksAUVZoWT0k4iLBXDo0cLxsgMTBK(plus)i(slash)bCcKaFFzWZaJ3x7z1gtjCbonqdtDO6Um25zXRDV7ueFJqhcej43"
+    },
+    {
+      "assetTitle": "AVR-X4300H",
+      "assetNumber": "3",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/lPDOBy(slash)MAEev(slash)NDCroxsk91LR7qc9VhCuztmtY9bpYy8Eqf822QEnTQT6mfBa1G1XA1ejZytefzssy1wFnsOyqD7vHyWzrbS"
+    },
+    {
+      "assetTitle": "AVR - X4500",
+      "assetNumber": "37",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 2,
+      "categoryName": "Accessories",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/PiEEqLSO6dZhIDGQuDroochdiL6ESCpUKlkgCfTm7IWxLEIWUwHYzjQT6mfBa1G1XQqaq3ggIXEQopWgW(plus)y18WgxkVgSKQERYkv9QSQkFDTeXzGJFc7PN(plus)eFJqhcej43"
+    },
+    {
+      "assetTitle": "AVR - 1200XA",
+      "assetNumber": "36",
+      "brands": [
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/Nn(slash)TwhHqaja1ailC72nJBD7t2rWbtzRs1tsKtJrapcqxaTR9YHlB1IxIb3DFYu5BBaKGHX8EER(slash)7wzfDyTP4H3yMZYvBUZSH"
+    },
+    {
+      "assetTitle": "AVR - 1200W",
+      "assetNumber": "35",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 2,
+      "categoryName": "Accessories",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/(slash)NMc2e10kF9WF1ehYnJS2(slash)L(slash)FzHH7GoqHlY0zsDN0twiYomaIAOXc2ZaJ3x7z1gtjCbonqdtDO6Um25zXRDV7ueFJqhcej43"
+    },
+    {
+      "assetTitle": "AVX - DMP102",
+      "assetNumber": "34",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 6,
+      "categoryName": "Car Audio",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/jKh98Fh1Q3UVEhVWxdmxwhnhRUvg8(plus)(plus)D3tkbweu1fQB(slash)Mjk41zTKAwvzdHRdR22qNPKxgSsBQJJkIRBovQRxddis5ijoXRovXvnBME26PEw%3d"
+    },
+    {
+      "assetTitle": "EMP - 120ZA",
+      "assetNumber": "33",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 2,
+      "categoryName": "Accessories",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/ArkcQ7SwpjSdcMW94oeWzEq64lvix8UzWWecfG7iWf8a3hzjcDndO5XWgrkTPI8tmfQ4PpCBxvdRoqT5hm3Z27E7g0OksXBmAyglwlnsXmUuDtF9sNdbEFFeo7YJnK0f"
+    },
+    {
+      "assetTitle": "HEOS 10",
+      "assetNumber": "32",
+      "brands": [
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/rBbXyB4s9(slash)EGZnd7I2rsuginPe1vEY6FSWvIIL9vE0IFnoxYYKJl9xcEDeiyUXlfhpCMNmnmpe8%3d"
+    },
+    {
+      "assetTitle": "BR - 1021WA",
+      "assetNumber": "31",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/RsoRPQG7AQ46884Zn7Nu4i1Ly2EhMqiVwuTDA3wCVAgz9E5HLB(slash)2qgKbcrRot4ut54UmqFx6Pjc%3d"
+    },
+    {
+      "assetTitle": "AVR - 2001XR",
+      "assetNumber": "30",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/yJlS9Ms6538hxpBWXNu6GFH4pgS6FDjB4a4QSZYCW1JFVWCGPXcC5zI4GrAR(plus)RWr12kfYMuDJWSsVRF96(plus)cmIw%3d%3d"
+    },
+    {
+      "assetTitle": "DCR - 1100X",
+      "assetNumber": "29",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/q6oR0aCXk2yJ9PIWuDUpcpbuffjlzn2Rio(plus)2AyNGLJ0jObz7LMA0OMerz2ve5fVffHmYh4Es5316jvp8ijtpdYLG2syqyX65XvnBME26PEw%3d"
+    },
+    {
+      "assetTitle": "AVR - 6300WA",
+      "assetNumber": "28",
+      "brands": [
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        }
+      ],
+      "categoryId": 4,
+      "categoryName": "Headphone",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/1W(slash)O8K4twfyFXmeFVTdphb1O1oQdgZPjBf1qGrD76MvB9rlW(plus)7cpITQT6mfBa1G1XA1ejZytefzssy1wFnsOyqD7vHyWzrbS"
+    },
+    {
+      "assetTitle": "MR - 121ZA",
+      "assetNumber": "27",
+      "brands": [
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/wRUuDsnsa7W7hvKA7oKCh7(plus)Il4lS9EeQnZkg(plus)tgj6waHAWHEGht(plus)n8erz2ve5fVffHmYh4Es5316jvp8ijtpdYLG2syqyX65XvnBME26PEw%3d"
+    },
+    {
+      "assetTitle": "DVD - 1200X",
+      "assetNumber": "25",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 2,
+      "categoryName": "Accessories",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/Yt9N4d2WGG7AzETCroyqAnzMVECaBMTYxkoR(plus)kSX3a5OiO7o(slash)TYcciw(plus)skJSe(slash)yTf2SXb6aqDhzKaRIp7sYTM3wDOK(plus)Dr(slash)UX54UmqFx6Pjc%3d"
+    },
+    {
+      "assetTitle": "AVR - 6200",
+      "assetNumber": "21",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/OZdnsi96XMNuvJDHKPP9(plus)U7Kw5p(slash)xQ9gIQsUAcIFmT(plus)smJP6ilyd(slash)IxIb3DFYu5BBaKGHX8EER(slash)7wzfDyTP4H3yMZYvBUZSH"
+    },
+    {
+      "assetTitle": "AVR - 1500",
+      "assetNumber": "22",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/K4tlgLq4j6hSBKQGFNL8b(plus)nhx61uLfIQAPvmz9Zs4(slash)Odu(plus)iFXtNGdgKbcrRot4ut54UmqFx6Pjc%3d"
+    },
+    {
+      "assetTitle": "Denon AVR",
+      "assetNumber": "19",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/gYvQgtHwT5bn262U52rfZwCBT86ez64woDhmOeYiChrETd76eqTv0sqRQ8H2vXxfEA19RCD(plus)9I9RXqO2CZytHw%3d%3d"
+    },
+    {
+      "assetTitle": "DBT  - 600",
+      "assetNumber": "13",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/L81vN1msYehAdLpSzUBJ7ZIiVRNls16(slash)BIEbpvNFr5iqWOVuxhth1RcEDeiyUXlfhpCMNmnmpe8%3d"
+    },
+    {
+      "assetTitle": "VCR - 1250AX",
+      "assetNumber": "23",
+      "brands": [
+        {
+          "brandId": 1,
+          "brandName": "Denon"
+        },
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 1,
+          "regionName": "Europe"
+        },
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 2,
+          "assetTypeName": "Marketing"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 1,
+      "categoryName": "Bluetooth",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/MjfHuOD4SArF8ZvrgP4T0PRnvMtb61ZOL2ZBc3F(plus)6W4peWcOKZXlqMYGfUcodr4Q"
+    },
+    {
+      "assetTitle": "ADR - 500X",
+      "assetNumber": "24",
+      "brands": [
+        {
+          "brandId": 3,
+          "brandName": "Marantz"
+        },
+        {
+          "brandId": 4,
+          "brandName": "Heos"
+        }
+      ],
+      "regions": [
+        {
+          "regionId": 3,
+          "regionName": "APAC"
+        },
+        {
+          "regionId": 4,
+          "regionName": "North America"
+        },
+        {
+          "regionId": 5,
+          "regionName": "Africa"
+        }
+      ],
+      "assetTypes": [
+        {
+          "assetTypeID": 1,
+          "assetTypeName": "Product"
+        },
+        {
+          "assetTypeID": 5,
+          "assetTypeName": "Advertisement"
+        }
+      ],
+      "categoryId": 3,
+      "categoryName": "Compact System",
+      "owner": "User Admin",
+      "thumbnailUrl": "http://omav.cloudapp.net/ImagesInAsset/Display/8jCDILCWUtHhgzsKSy4I7(plus)hmCM6wJVkxATtRxtIRT7(plus)wD(plus)RF2WgddGNSxdIse(plus)kSDWOcE0ArD(slash)B8jGWLwVGUhw%3d%3d"
+    }
+  ]
+}

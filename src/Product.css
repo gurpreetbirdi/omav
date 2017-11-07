@@ -1,0 +1,401 @@
+
+.proList article {
+    border-right: solid 1px #e2e2e2;
+    border-bottom: solid 1px #e2e2e2;
+    padding: 2em 1em 1em;
+}
+
+
+.col-sm-3{
+  width: 20%;
+  float:left;
+position: relative;
+min-height: 1px;
+padding-right: 10px;
+padding-left: 10px;
+}
+
+article{
+display: block;
+}
+article{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+h4 {
+    display: block;
+    -webkit-margin-before: 1.33em;
+    -webkit-margin-after: 1.33em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+div{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+.proList article figure {
+    text-align: center;
+}
+figure{
+display: block;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+.proList article .detail {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.75);
+    opacity: 0;
+    padding: 2em;
+    -webkit-transition: all .25s;
+    transition: all 0.25s;
+}
+.proList article:hover .detail {
+    opacity: 1;
+}
+.proList article .detail {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.75);
+    opacity: 0;
+    padding: 2em;
+    -webkit-transition: all .25s;
+    transition: all 0.25s;
+}
+.proList article figure figcaption {
+    line-height: 1.285;
+    -webkit-transition: all .25s;
+    transition: all 0.25s;
+}
+.proList article figure figcaption {
+    font-size: 1.65em;
+    margin-bottom: 15px;
+}
+.proList article figure figcaption {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+figcaption{
+  display:block;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+
+a {
+    margin: 0;
+      color: #11355c;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    outline: none;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+.proList article figure figcaption span {
+    font-size: .6em;
+    display: block;
+    padding-top: 5px;
+}
+span{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+.proList article .detail .proDetail fieldset {
+    margin-bottom: 5px;
+}
+fieldset{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+fieldset {
+    display: block;
+    -webkit-margin-start: 2px;
+    -webkit-margin-end: 2px;
+    -webkit-padding-before: 0.35em;
+    -webkit-padding-start: 0.75em;
+    -webkit-padding-end: 0.75em;
+    -webkit-padding-after: 0.625em;
+    min-width: -webkit-min-content;
+    border-width: 2px;
+    border-style: groove;
+    border-color: threedface;
+    border-image: initial;
+}
+.proList article .detail .proDetail label {
+    font-family: 'Neue Helvetica W1G 65 Medium', Arial, Helvetica, sans-serif;
+}
+label {
+    font-weight: normal;
+}
+label{
+  cursor: default;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+div.icon.w25 {
+    width: auto;
+}
+div.icon{
+font-family: 'Neue Helvetica W1G 55 Roman', Arial, Helvetica, sans-serif;
+}
+div.icon span {
+    display: inline-block;
+    width: 40px;
+    height: 30px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+span{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+element.style {
+    left: -8px;
+    top: -2263px;
+}
+a.icon img, div.icon img {
+    position: relative;
+}
+img{
+  margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+div.icon span + span {
+    width: auto;
+    height: auto;
+}
+div.icon span {
+    display: inline-block;
+    width: 40px;
+    height: 30px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+a.icon.w25, div.icon.w25 {
+    width: auto;
+}
+div.icon {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    vertical-align: middle;
+}
+.f16 {
+    font-size: 16px;
+}
+.c_green {
+    color: #00a651;
+}
+.w25, .w25P {
+    width: 25%;
+}
+.proList article .detail .proDetail aside {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1em 2em;
+    background-color: rgba(0, 0, 0, 0.025);
+    border-top: solid 1px #e2e2e2;
+}
+aside{
+  display: block;
+  margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+ul.iconList.full {
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+.c_dBlue {
+    color: #11355c;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+ul.iconList.full li {
+    display: table-cell;
+}
+ul.iconList li{
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    vertical-align: middle;
+        font-family: 'Neue Helvetica W1G 55 Roman', Arial, Helvetica, sans-seri
+}
+li{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+ul.iconList li a {
+    color: inherit;
+}
+a {
+    color: #11355c;
+}
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    outline: none;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+ul.iconList.textBottom li span {
+    display: block;
+    margin: auto;
+}
+ul.iconList li span, a.icon span, div.icon span {
+    display: inline-block;
+    width: 40px;
+    height: 30px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+element.style {
+    top: -1800px;
+}
+ul.iconList li img {
+    position: relative;
+}
+ul.iconList.textBottom li span + span {
+    padding-top: 5px;
+}
+ul.iconList.textBottom li span {
+    display: block;
+    margin: auto;
+}
+ul.iconList li span + span, a.icon span + span, div.icon span + span {
+    width: auto;
+    height: auto;
+}
+ul.iconList li span, a.icon span, div.icon span {
+    display: inline-block;
+    width: 40px;
+    height: 30px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+.proList article .detail {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.75);
+    opacity: 0;
+    padding: 2em;
+    -webkit-transition: all .25s;
+    transition: all 0.25s;
+}
+.proList article {
+    border-right: solid 1px #e2e2e2;
+    border-bottom: solid 1px #e2e2e2;
+    padding: 2em 1em 1em;
+}
+@media (min-width: 768px)
+.col-sm-3 {
+    width: 25%;
+}
